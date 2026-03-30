@@ -13,4 +13,4 @@ The goal of this task is to practice **Forking**, **Branching**, and **Pull Requ
 ## 👥 Contributors
 
 * Addlin Akinyi (Project Lead)
-*Teammate's name
+* Teammate's name
